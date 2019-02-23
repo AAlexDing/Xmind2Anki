@@ -1,3 +1,3 @@
 # Xmind2Anki
 
-requirement:xmind-sdk-python
+Requirement:xmind-sdk-python
